@@ -21,7 +21,7 @@ to uncover actionable insights for corporate wellness programs and healthcare po
 | Tableau Public | Public visualization & live link |
 
 ## 📊 Live Dashboards
-- 🔴 **Tableau Public (Live):** [Click here to view](https://public.tableau.com/app/profile/areesha.mubeen/viz/MentalHealthAnalysisAreeshaMubeen/TreatmentRatebyOccupation))
+- 🔴 **Tableau Public (Live):** [Click here to view](https://public.tableau.com/app/profile/areesha.mubeen/viz/MentalHealthAnalysisAreeshaMubeen/TreatmentRatebyOccupation)
 - 📁 **Power BI Dashboard:** Available in `/dashboards` folder
 
 ## 📈 Visualizations
